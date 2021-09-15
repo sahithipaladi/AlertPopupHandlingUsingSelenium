@@ -1,4 +1,9 @@
-﻿using NUnit.Framework;
+/*
+ * Project: Popup Handling using alert methods using selenium
+ * Author:  p.sahithi
+ * Date :   14/09/2021
+ */
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
